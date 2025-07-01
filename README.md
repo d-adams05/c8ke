@@ -21,7 +21,7 @@ A modern CHIP-8 emulator with a built-in debugger, using SDL3 and ImGui.
 
 ## Extra
 
-There are no ROMs included in this repo, but you can find some here
+There are no ROMs included in this repo, but you can find some here:
 
 - [ROMs for testing the emulator](https://github.com/Timendus/chip8-test-suite)
 - [Games and Demos](https://github.com/kripod/chip8-roms)
