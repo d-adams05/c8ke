@@ -13,6 +13,14 @@ A modern CHIP-8 emulator with a built-in debugger, using SDL3 and ImGui.
 - Beep audio tuning (amount & phase)
 - Pause/resume support
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+![Screenshot 3](screenshots/screenshot3.png)
+
 ## Credits
 
 - [SDL3](https://github.com/libsdl-org/SDL)
