@@ -1,4 +1,4 @@
-# c8ke - A CHIP-8 Emulator
+# c8ke
 
 A modern CHIP-8 emulator with a built-in debugger, using SDL3 and ImGui.
 
